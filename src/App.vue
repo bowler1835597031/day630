@@ -61,7 +61,6 @@ export default {
       ],
       name: '',
       age: 0,
-      sex: '男',
     };
   },
   methods: {
